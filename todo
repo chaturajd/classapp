@@ -1,0 +1,21 @@
+# Create class
+    
+    class name
+        
+    start time  end time
+    select days
+
+    class fees
+
+    class location
+    class description
+
+# Register Student
+    student name
+    age
+    birthday
+    grade
+    school
+
+    -> add to classes
+
